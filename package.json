@@ -1,0 +1,23 @@
+{
+  "name": "express-webpack-assets-tracker",
+  "version": "1.0.0",
+  "description": "hashed webpack assets tracker",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinkGu/express-webpack-assets-tracker.git"
+  },
+  "keywords": [
+    "express",
+    "hash",
+    "assets",
+    "webpack",
+    "tracker"
+  ],
+  "author": "TinkGu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinkGu/express-webpack-assets-tracker/issues"
+  },
+  "homepage": "https://github.com/TinkGu/express-webpack-assets-tracker#readme"
+}
